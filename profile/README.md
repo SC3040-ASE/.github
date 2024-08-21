@@ -6,6 +6,10 @@
 - SharePoint: https://entuedu.sharepoint.com/sites/ASWE/SitePages/CollabHome.aspx?e=1:7a058cedbefc44049b604299db911607
 
 
+## Development & Deployment Workflow
+<img width="1284" alt="image" src="https://github.com/user-attachments/assets/f4722f22-cbad-4bce-952e-6400d03e6147">
+
+
 <!--
 
 **Here are some ideas to get you started:**
