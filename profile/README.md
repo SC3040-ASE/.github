@@ -29,7 +29,7 @@ By convention, the pipeline is setup such that you do not need to worry about de
 When you merge your changes to `main`, the merge triggers the deployment pipeline on Jenkins to build and push Docker images to Docker Hub, which it will then use to perform rolling update on the production VM.
 
 ### Onboarding Repositories to Jenkins Pipeline
-* To begin, you should have the `Jenkins.tests` and `Jenkins.deploy` file ready in the `main` branch. There is a template for it, the only thing you need to manually configure is the *image name* (corresponding to your repository) and *unit test command*.
+* To begin, you should have the `Jenkinsfile.tests` and `Jenkinsfile.deploy` file ready in the `main` branch. There is a template for it, the only thing you need to manually configure is the *image name* (corresponding to your repository) and *unit test command*.
 * You should have setup unit tests to test out granular functionailities of your app.
 * You should have `Dockerfile` ready for image build and deployment.
 
