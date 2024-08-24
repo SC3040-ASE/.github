@@ -41,4 +41,4 @@ When the pipeline fails, Jenkins will raise a ticket in Asana under the section 
 ## GitOps
 
 ### Commit Message
-Write meaningful commit messages summarize the changes in this commit. Start your commit message with a verb in past tense, e.g `Updated database schema`.
+Write meaningful commit messages that summarize the changes in this commit. Start your commit message with a verb in past tense, e.g `Updated database schema`.
