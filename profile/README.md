@@ -4,7 +4,6 @@
 - Asana: https://app.asana.com/0/1208082719272721/1208082720271251
 - SharePoint: https://entuedu.sharepoint.com/sites/ASWE/SitePages/CollabHome.aspx?e=1:7a058cedbefc44049b604299db911607
 
-
 ## DevOps
 ### Branching Convention
 Try to follow the following conventions when managing branches:
@@ -39,14 +38,7 @@ When the pipeline fails, Jenkins will raise a ticket in Asana under the section 
 
 <img width="1920" alt="image" src="https://github.com/user-attachments/assets/5fd0b42b-5997-4d54-8126-bfc1f39f7de2">
 
+## GitOps
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Commit Message
+Write meaningful commit messages summarize the changes in this commit. Start your commit message with a verb in past tense, e.g `Updated database schema`.
