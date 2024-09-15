@@ -33,12 +33,10 @@ When you merge your changes to `main`, the merge triggers the deployment pipelin
 * You should have `Dockerfile` ready for image build and deployment.
 
 
-### Asana Integration
-When the pipeline fails, Jenkins will raise a ticket in Asana under the section `Pipeline Builds`. Here is an example:
+### Pipeline status
+For every PR raised or merged, Jenkins will raise an issue in the respective repo's `Issue` section under the section. Here is an example:
 
-<img width="1920" alt="image" src="https://github.com/user-attachments/assets/5fd0b42b-5997-4d54-8126-bfc1f39f7de2">
-
-## GitOps
+<img width="1386" alt="image" src="https://github.com/user-attachments/assets/c901530c-c575-4fd4-9e64-51f241ee49a9">
 
 ### Commit Message
 Write meaningful commit messages that summarize the changes in this commit. Start your commit message with an uppercase verb in present tense, e.g `Update database schema`.
