@@ -4,6 +4,7 @@
 - Asana: https://app.asana.com/0/1208082719272721/1208082720271251
 - SharePoint: https://entuedu.sharepoint.com/sites/ASWE/SitePages/CollabHome.aspx?e=1:7a058cedbefc44049b604299db911607
 - Jenkins: http://20.6.107.48:8080/
+- Production: http://20.58.132.47/login
 
 ## DevOps
 ### Branching Convention
